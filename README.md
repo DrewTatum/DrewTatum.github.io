@@ -9,4 +9,4 @@ Hello,
 </ul>
 
 ## Resume 
-<a href=#nothing_yet>Resume</a>
+<a href=nothing_yet>Resume</a>
