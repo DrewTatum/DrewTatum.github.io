@@ -3,6 +3,7 @@ theme: jekyll-theme-cayman
 name: Drew Tatum
 title: Drew Tatum
 url: "https://drewtatum.github.io/"
+page.title: Drew Tatum
 
 # Navigation Bar
 navbar-links:
