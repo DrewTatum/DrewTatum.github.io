@@ -1,1 +1,11 @@
+# Site Parameters 
 theme: jekyll-theme-cayman
+name: Drew Tatum
+title: Drew Tatum
+url: "https://drewtatum.github.io/"
+
+# Navigation Bar
+navbar-links:
+  First Link: "First"
+  Second Link: "Second"
+ 
