@@ -1,47 +1,49 @@
 # About Me
 
+<p>
 Hello, my name is Drew Tatum. I am a graduate student at DePaul University obtaining 
 my Master's in Data Science. I began my Data Science journey as an undergraduate student
 studying Exercise Science who fell in love with statistics and machine learning. After 
 graduating from my Exercise Science program in three years I spent the next two years 
 of my undergraduate degree obtaining a minor in Statistics and another minor in 
-Computing. I am passionate about research within the medical and sport fields. 
+Computing.
+</p>
 
 ## Projects
 <ul>
 <li>March Madness Monte Carlo Bracket Simulation (In Progress)
 <ul>
-<li>Multiple Monte Carlo based algorithms are being created to simulate and predict the final results of the 2022 March Madness bracket </li>
-<li>Different statistical approaches are being used like Bayesian and Markov Chain to develop the algorithms</li>
-<li>Algorithms rely on randomness by determining the distribution and likelihood of each parameter in the model based on historical data</li>
+<li>Created multiple Monte Carlo based algorithms to simulate and predict the final results of the 2022 March Madness bracket</li>
+<li>Applied different statistical approaches like Bayesian and Markov Chain </li>
+<li>Relied on randomness by determining the distribution and likelihood of each parameter in the model based on historical data</li>
 </ul>
 </li>
 <li>DePaul Course Catalog Intelligent Information Retrieval System (In Progress)
 <ul>
-<li>The base of this information retrieval system is to return the most similar courses offered at DePaul University to the user based on their query</li>
-<li>A web crawler is being created to index the courses where other functions are weighting terms and computing their similarity scores while modifying the user's query if needed</li>
-<li>Additionally this system offers a recommender system approach by offering courses that are similar to other courses the student has enjoyed</li>
+<li>Returned the most similar courses offered at DePaul University to the user based on their query after weighting the terms and computing their similarity </li>
+<li>Created web crawler to index the courses from DePaul University’s course catalog </li>
+<li>Developed a recommender system to offer courses that are similar based on other courses the user has enjoyed</li>
 </ul>
 </li>
 <li><a href="https://drewtatum.github.io/NBA_Position/">NBA Player Position Clustering Analysis</a>
 <ul>
-<li>Exploratory analysis looking at the relationship between a player's position based on game stats, physique, and draft position</li>
-<li>This analysis looked at player positions in two ways: The first as 5 separate positions (PG, SG, SF, PF, C) and the second as three groups (Guards, Forwards, Centers)</li>
-<li>Different lower dimensional kernels were applied to the player clusters to try and distinguish the positions</li>
+<li>Explored the relationship between a player's position based on game stats, physique, and draft position </li>
+<li>Viewed player positions in two ways: The first as 5 separate positions (PG, SG, SF, PF, C) and the second as three groups (Guards, Forwards, Centers) </li>
+<li>Applied different PCA kernels to the player clusters to try and distinguish the positions in a lower dimensional space </li>
 </ul>
 </li>
 <li><a href="https://drewtatum.github.io/Car_Recommender/">Content Based Car Recommender System</a>
 <ul>
-<li>This project used two different approaches to recommend a car to a user based on 7 different input parameters (year, cost, number of doors, etc...)</li>
-<li>The first approach used a k-means clustering algorithm where similarity scores were calculated</li>
-<li>The second approach used a PCA version (reduced number of features from 50 to 8) to recommend the user a car</li>
+<li>Created two different systems to recommend a car to a user based on 7 different input parameters (year, cost, number of doors, etc...)</li>
+<li>Developed a k-means clustering algorithm where similarity scores were calculated using their Euclidean norm </li>
+<li>Implemented a PCA version (reduced number of features from 50 to 8) to recommend the user a car to compare to the initial model </li>
 </ul>
 </li>
 <li><a href="https://drewtatum.github.io/Baseball_HOF/">Baseball Hall of Fame Classification Algorithm</a>
 <ul>
-<li>The purpose of this project was to use different machine learning classification techniques to classify </li>
-<li></li>
-<li>A cluster analysis was performed to see which features hall of fame players had in common</li>
+<li>Designed multiple machine learning classification techniques to classify players as HOF inductees</li>
+<li>Used a KNN algorithm with hyperparameter tuning to account for the unbalanced classification labels</li>
+<li>Performed a cluster analysis to see which features hall of fame players had in common</li>
 </ul>
 </li>
 </ul> 
