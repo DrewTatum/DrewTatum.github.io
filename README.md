@@ -35,7 +35,7 @@ Computing. Currently, I am looking for a summer 2022 internship to finish my Dat
 <li>Applied different PCA kernels to the player clusters to try and distinguish the positions in a lower dimensional space </li>
 </ul>
 </li>
-<li><Content Based Car Recommender System
+<li>Content Based Car Recommender System
 <ul>
 <li>Created two different systems to recommend a car to a user based on 7 different input parameters (year, cost, number of doors, etc...)</li>
 <li>Developed a k-means clustering algorithm where similarity scores were calculated using their Euclidean norm </li>
