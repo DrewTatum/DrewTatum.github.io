@@ -27,7 +27,7 @@ Computing. Currently, I am looking for a summer 2022 internship to finish my Dat
 <ul>
 <li>Returned the most similar courses offered at DePaul University to the user based on their query after weighting the terms and computing their similarity </li>
 <li>Created web crawler to index the courses from DePaul University’s course catalog </li>
-<li>Used a weighting similarity scheme based on the course title versus the course description/li>
+<li>Used a weighting similarity scheme based on the course title versus the course description</li>
 </ul>
 </li>
 <li><a href="https://drewtatum.github.io/NBA_Position/">NBA Player Position Clustering Analysis</a>
