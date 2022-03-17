@@ -6,12 +6,15 @@ my Master's in Data Science. I began my Data Science journey as an undergraduate
 studying Exercise Science who fell in love with statistics and machine learning. After 
 graduating from my Exercise Science program in three years I spent the next two years 
 of my undergraduate degree obtaining a minor in Statistics and another minor in 
-Computing.
+Computing. Currently, I am looking for a summer 2022 internship to finish my Data Science Masters program.
 </p>
+
+## Resume 
+<a href="AndrewTatum_Resume.pdf">Resume</a>
 
 ## Projects
 <ul>
-<li>March Madness Monte Carlo Bracket Simulation (In Progress)
+<li>2022 March Madness Monte Carlo Bracket Simulation (In Progress)
 <ul>
 <li>Created multiple Monte Carlo based algorithms to simulate and predict the final results of the 2022 March Madness bracket</li>
 <li>Applied different statistical approaches like Bayesian and Markov Chain </li>
@@ -22,7 +25,7 @@ Computing.
 <ul>
 <li>Returned the most similar courses offered at DePaul University to the user based on their query after weighting the terms and computing their similarity </li>
 <li>Created web crawler to index the courses from DePaul University’s course catalog </li>
-<li>Developed a recommender system to offer courses that are similar based on other courses the user has enjoyed</li>
+<li>Used a weighting similarity scheme based on the course title versus the course description/li>
 </ul>
 </li>
 <li><a href="https://drewtatum.github.io/NBA_Position/">NBA Player Position Clustering Analysis</a>
@@ -32,14 +35,14 @@ Computing.
 <li>Applied different PCA kernels to the player clusters to try and distinguish the positions in a lower dimensional space </li>
 </ul>
 </li>
-<li><a href="https://drewtatum.github.io/Car_Recommender/">Content Based Car Recommender System</a>
+<li><Content Based Car Recommender System
 <ul>
 <li>Created two different systems to recommend a car to a user based on 7 different input parameters (year, cost, number of doors, etc...)</li>
 <li>Developed a k-means clustering algorithm where similarity scores were calculated using their Euclidean norm </li>
 <li>Implemented a PCA version (reduced number of features from 50 to 8) to recommend the user a car to compare to the initial model </li>
 </ul>
 </li>
-<li><a href="https://drewtatum.github.io/Baseball_HOF/">Baseball Hall of Fame Classification Algorithm</a>
+<li>Baseball Hall of Fame Classification Algorithm
 <ul>
 <li>Designed multiple machine learning classification techniques to classify players as HOF inductees</li>
 <li>Used a KNN algorithm with hyperparameter tuning to account for the unbalanced classification labels</li>
@@ -52,5 +55,3 @@ Computing.
 
 ## Interests
 
-## Resume 
-<a href="NOTHINGYET">Resume</a>
