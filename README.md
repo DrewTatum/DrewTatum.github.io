@@ -9,8 +9,10 @@ of my undergraduate degree obtaining a minor in Statistics and another minor in
 Computing. Currently, I am looking for a summer 2022 internship to finish my Data Science Masters program.
 </p>
 
-## Resume 
-<a href="AndrewTatum_Resume.pdf">Resume</a>
+<a href="AndrewTatum_Resume.pdf">Resume</a> <br>
+<a href="https://www.linkedin.com/in/drewtatum5/">LinkedIn</a> <br>
+<a href="https://github.com/DrewTatum">GitHub</a> <br>
+<a href="https://www.kaggle.com/drewtatum">Kaggle</a>
 
 ## Projects
 <ul>
