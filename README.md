@@ -16,14 +16,14 @@ Computing. Currently, I am looking for a summer 2022 internship to finish my Dat
 
 ## Projects
 <ul>
-<li>2022 March Madness Monte Carlo Bracket Simulation (In Progress)
+<li><a href="https://github.com/DrewTatum/MarchMania2022">2022 March Madness Monte Carlo Bracket Simulation (In Progress)</a>
 <ul>
 <li>Created multiple Monte Carlo based algorithms to simulate and predict the final results of the 2022 March Madness bracket</li>
 <li>Applied different statistical approaches like Bayesian and Markov Chain </li>
 <li>Relied on randomness by determining the distribution and likelihood of each parameter in the model based on historical data</li>
 </ul>
 </li>
-<li>DePaul Course Catalog Intelligent Information Retrieval System (In Progress)
+<li><a href="https://github.com/DrewTatum/InformationRetrievalSystem">DePaul Course Catalog Intelligent Information Retrieval System (In Progress)</a>
 <ul>
 <li>Returned the most similar courses offered at DePaul University to the user based on their query after weighting the terms and computing their similarity </li>
 <li>Created web crawler to index the courses from DePaul University’s course catalog </li>
