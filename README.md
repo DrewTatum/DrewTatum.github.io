@@ -1,5 +1,3 @@
-# About Me
-
 <p>
 Hello, my name is Drew Tatum. I am a graduate student at DePaul University obtaining 
 my Master's in Data Science. I began my Data Science journey as an undergraduate student
@@ -53,7 +51,5 @@ Computing. Currently, I am looking for a summer 2022 internship to finish my Dat
 </li>
 </ul> 
 
-## Skills
 
-## Interests
 
