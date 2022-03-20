@@ -1,10 +1,10 @@
 <p>
-Hello, my name is Drew Tatum. I am a graduate student at DePaul University obtaining 
-my Master's in Data Science. I began my Data Science journey as an undergraduate student
-studying Exercise Science who fell in love with statistics and machine learning. After 
-graduating from my Exercise Science program in three years I spent the next two years 
-of my undergraduate degree obtaining a minor in Statistics and another minor in 
-Computing. Currently, I am looking for a summer 2022 internship to finish my Data Science Masters program.
+Hello, my name is Drew Tatum. I was born in Alabama but spent middle school and high school in Costa Rica, where I 
+learned to speak Spanish. I am currently a graduate student at DePaul University obtaining my Master's in Data Science. 
+I began my Data Science journey as an undergraduate student studying Exercise Science who fell in love with statistics 
+and machine learning. After graduating from my Exercise Science program in three years, I spent the next two years of 
+my undergraduate degree obtaining a minor in Statistics and another minor in Computing. Currently, I am looking for a 
+summer 2022 internship to finish my Data Science Master's program. 
 </p>
 
 <a href="AndrewTatum_Resume.pdf">Resume</a> <br>
