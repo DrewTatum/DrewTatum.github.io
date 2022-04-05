@@ -14,14 +14,14 @@ summer 2022 internship to finish my Data Science Master's program.
 
 ## Projects
 <ul>
-<li><a href="https://github.com/DrewTatum/MarchMania2022">2022 March Madness Monte Carlo Bracket Simulation (In Progress)</a>
+<li><a href="https://github.com/DrewTatum/MarchMania2022">2022 March Madness Monte Carlo Bracket Simulation</a>
 <ul>
 <li>Created multiple Monte Carlo based algorithms to simulate and predict the final results of the 2022 March Madness bracket</li>
 <li>Applied different statistical approaches like Bayesian and Markov Chain </li>
 <li>Relied on randomness by determining the distribution and likelihood of each parameter in the model based on historical data</li>
 </ul>
 </li>
-<li><a href="https://github.com/DrewTatum/InformationRetrievalSystem">DePaul Course Catalog Intelligent Information Retrieval System (In Progress)</a>
+<li><a href="https://github.com/DrewTatum/InformationRetrievalSystem">DePaul Course Catalog Intelligent Information Retrieval System</a>
 <ul>
 <li>Returned the most similar courses offered at DePaul University to the user based on their query after weighting the terms and computing their similarity </li>
 <li>Created web crawler to index the courses from DePaul University’s course catalog </li>
