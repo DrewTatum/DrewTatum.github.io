@@ -1,10 +1,11 @@
 <p>
 Hello, my name is Drew Tatum. I was born in Alabama but spent middle school and high school in Costa Rica, where I 
-learned to speak Spanish. I am currently a graduate student at DePaul University obtaining my Master's in Data Science. 
-I began my Data Science journey as an undergraduate student studying Exercise Science who fell in love with statistics 
-and machine learning. After graduating from my Exercise Science program in three years, I spent the next two years of 
-my undergraduate degree obtaining a minor in Statistics and another minor in Computing. Currently, I am looking for a 
-summer 2022 internship to finish my Data Science Master's program. 
+learned to speak Spanish. I am currently a Data Scientist Intern at Premier Inc. and a graduate student at DePaul 
+University obtaining my Master's in Data Science.I began my Data Science journey as an undergraduate student studying 
+Exercise Science who fell in love with statistics and machine learning. After graduating from my Exercise Science program 
+in three years, I spent the next two years of my undergraduate degree obtaining a minor in Statistics and another minor 
+in Computing. My career interests are related to using machine learning to improve the healthcare systems for the general 
+population and using deep learning for natural language processing.
 </p>
 
 <a href="AndrewTatum_Resume.pdf">Resume</a> <br>
@@ -28,7 +29,7 @@ summer 2022 internship to finish my Data Science Master's program.
 <li>Used a weighting similarity scheme based on the course title versus the course description</li>
 </ul>
 </li>
-<li><a href="https://drewtatum.github.io/NBA_Position/">NBA Player Position Clustering Analysis</a>
+<li>NBA Player Position Clustering Analysis
 <ul>
 <li>Explored the relationship between a player's position based on game stats, physique, and draft position </li>
 <li>Viewed player positions in two ways: The first as 5 separate positions (PG, SG, SF, PF, C) and the second as three groups (Guards, Forwards, Centers) </li>
