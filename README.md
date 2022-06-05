@@ -28,7 +28,7 @@ in Computing. Currently, I am finishing my Data Science Master's program this su
 <li>Used a weighting similarity scheme based on the course title versus the course description</li>
 </ul>
 </li>
-<li><a href="https://drewtatum.github.io/NBA_Position/">NBA Player Position Clustering Analysis</a>
+<li>NBA Player Position Clustering Analysis
 <ul>
 <li>Explored the relationship between a player's position based on game stats, physique, and draft position </li>
 <li>Viewed player positions in two ways: The first as 5 separate positions (PG, SG, SF, PF, C) and the second as three groups (Guards, Forwards, Centers) </li>
