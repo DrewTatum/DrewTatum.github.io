@@ -5,7 +5,7 @@ University obtaining my Master's in Data Science.I began my Data Science journey
 Exercise Science who fell in love with statistics and machine learning. After graduating from my Exercise Science program 
 in three years, I spent the next two years of my undergraduate degree obtaining a minor in Statistics and another minor 
 in Computing. My career interests are related to using machine learning to improve the healthcare systems for the general 
-population and using deep learning for natural language processing.
+population and using deep learning for natural language processing. 
 </p>
 
 <a href="AndrewTatum_Resume.pdf">Resume</a> <br>
